@@ -1,0 +1,18 @@
+# Bytecode & Cache
+__pycache__/
+*.pyc
+
+# Virtuelle Umgebung
+.venv/
+
+# IDE-spezifisch (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Output-Dateien
+output/
+*.png
+
+# Systemdateien
+.DS_Store
+Thumbs.db

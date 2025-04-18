@@ -1,0 +1,10 @@
+{
+  "farbe": "#006e6d",
+  "titel": "Automatisiertes Testing",
+  "logo": "logo/Thws_Logo.png",
+  "professor": "professoren/beispiel_eckig.png",
+  "bildform": "rechteck",
+  "logo_position": "oben_links",
+  "hintergrund": "#e6f1f0",
+  "auflösung": [1280, 720]
+}

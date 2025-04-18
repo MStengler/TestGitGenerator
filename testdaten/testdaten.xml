@@ -1,0 +1,17 @@
+<module>
+    <modul>
+        <modulname>Von-Neumann-Rechner</modulname>
+        <ects>5</ects>
+        <semester>1</semester>
+    </modul>
+    <modul>
+        <modulname>Turingmaschine</modulname>
+        <ects>4</ects>
+        <semester>2</semester>
+    </modul>
+    <modul>
+        <modulname>Automatisiertes Testing</modulname>
+        <ects>3</ects>
+        <semester>3</semester>
+    </modul>
+</module>
