@@ -1,0 +1,5 @@
+[
+  {"modulname": "Von-Neumann-Rechner", "ects": 5, "semester": 1},
+  {"modulname": "Turingmaschine", "ects": 4, "semester": 2},
+  {"modulname": "Automatisiertes Testing", "ects": 3, "semester": 3}
+]

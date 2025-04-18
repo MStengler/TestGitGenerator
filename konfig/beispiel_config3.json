@@ -1,0 +1,9 @@
+{
+  "farbe": "#007fff",
+  "titel": "Softwareentwicklung: Maximilian",
+  "logo": "logo/Thws_Logo.png",
+  "professor": "professoren/beispiel_eckig.png",
+  "bildform": "rechteck",
+  "logo_position": "oben_links",
+  "auflösung": [1280, 720]
+}
